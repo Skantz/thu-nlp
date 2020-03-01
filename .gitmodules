@@ -1,0 +1,3 @@
+[submodule "NLP-THU"]
+	path = NLP-THU
+	url = https://github.com/thunlp/NLP-THU
