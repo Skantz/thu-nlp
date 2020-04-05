@@ -1,9 +1,9 @@
 Pytorch implementation of Word2Vec
 
-- [+] Negative sampling
+- ✅ Negative sampling
 
-- [ ] Inverse frequency sampling
-- [ ] Part-of-speech tag embedding
+- ⬜️ Inverse frequency sampling
+- ⬜️ Part-of-speech tag embedding
 
 0.4 corr on Wordsim353
 
